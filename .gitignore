@@ -1,0 +1,10 @@
+# Large datasets (>100MB GitHub limit) - auto-downloaded by notebook cell 1.1
+*.csv
+*.parquet
+raw_parquet/
+
+# macOS & Python artifacts
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
