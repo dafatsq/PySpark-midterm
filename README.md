@@ -1,7 +1,10 @@
 # Midterm Project (UTS): Big Data & Machine Learning with PySpark MLlib
 
-- **Name:** Maliki Kadafa Tsaqif
-- **NIM:** 103012340185
+### Team Members:
+1. **Maliki Kadafa Tsaqif** — `103012340185`
+2. **Muhammad Zayyad Azizan** — `103012340211`
+3. **Farrel Immanuel Pasaribu** — `103012340215`
+
 - **Course:** Big Data and Artificial Intelligence
 - **Evaluation:** Mid-Semester Project (*Proyek Tengah Semester* / UTS)
 - **Framework:** Apache Spark (`PySpark 4.0.4` — `pyspark.sql`, `pyspark.ml.feature`, `pyspark.ml.classification`)

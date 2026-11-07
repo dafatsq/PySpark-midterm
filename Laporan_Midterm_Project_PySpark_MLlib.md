@@ -1,7 +1,9 @@
 # Laporan Proyek Tengah Semester (Midterm Project / UTS): Big Data dan Machine Learning dengan PySpark
 
-**Nama:** Maliki Kadafa Tsaqif  
-**NIM:** 103012340185  
+**Anggota Kelompok:**  
+1. **Maliki Kadafa Tsaqif** (`103012340185`)  
+2. **Muhammad Zayyad Azizan** (`103012340211`)  
+3. **Farrel Immanuel Pasaribu** (`103012340215`)  
 **Mata Kuliah:** Big Data and Artificial Intelligence  
 **Topik Studi Kasus:** Prediksi Pemberian Tip Dermawan (*Generous Tipping Prediction*) pada Perjalanan Taksi Kota New York  
 **Dataset:** Official NYC Taxi & Limousine Commission (NYC TLC) Yellow Taxi Trip Records 2023 (`nyc_yellow_taxi_2023_3gb.csv` — **3,19 GiB / 3,43 GB, 31.593.944 Baris Data**)  
